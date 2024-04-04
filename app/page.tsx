@@ -23,7 +23,7 @@ export default function Home() {
                 job <span className="text-primary">tracking</span>app
               </h1>
               <p className="leading-loose max-w-md mt-4">
-                Lorem ipdumks aksndfj andfo iadsfsad lasdjf
+                Track Your Job Journey
               </p>
 
               <Button asChild className="mt-4">
